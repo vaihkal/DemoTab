@@ -1,5 +1,7 @@
 {
   "name": "DemoTab",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
